@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "倦怠ライフ・リターンズ!",
+  "base_artist": "キョン (CV.杉田智和)",
+  "createdAt": "2026-03-15T08:12:39.358645Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "倦怠ライフ・リターンズ!",
+      "artist": "キョン(杉田智和)",
+      "has_synced": true,
+      "path": "select/01_倦怠ライフ・リターンズ!_キョン(杉田智和).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "倦怠ライフ・リターンズ! (off vocal)",
+      "artist": "キョン (C.V.杉田智和)",
+      "has_synced": true,
+      "path": "select/02_倦怠ライフ・リターンズ!_(off_vocal)_キョン_(C.V.杉田智和).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "倦怠ライフ・リターンズ!",
+      "artist": "杉田智和",
+      "has_synced": true,
+      "path": "select/03_倦怠ライフ・リターンズ!_杉田智和.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "倦怠ライフ・リターンズ!",
+      "artist": "キョン (杉田智和)",
+      "has_synced": true,
+      "path": "select/04_倦怠ライフ・リターンズ!_キョン_(杉田智和).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "倦怠ライフ・リターンズ!",
+      "artist": "キョン(CV.杉田智和)",
+      "has_synced": false,
+      "path": "select/pl_01_倦怠ライフ・リターンズ!_キョン(CV.杉田智和).txt"
+    }
+  ]
+}
